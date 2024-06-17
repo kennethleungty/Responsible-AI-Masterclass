@@ -17,7 +17,7 @@
 ___
 ## Colab Notebooks
 - **Veritas toolkit**: https://colab.research.google.com/drive/1cLkmQpWSJMZBxZ8tQrhcQqtCghOvD3bI
-- **NeMo Guardrails**: https://colab.research.google.com/drive/1a5ysrAJPSfAszPAkJPTzqP0ZYlDFo8Zb#scrollTo=hoEOIdZhiyTI
+- **NeMo Guardrails**: https://colab.research.google.com/drive/1a5ysrAJPSfAszPAkJPTzqP0ZYlDFo8Zb
 
 > Feel free to DM me if you are interested in the AIF360 notebook as well
 
